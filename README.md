@@ -12,3 +12,10 @@ Learning Github and Claude Code
 - Made first commit
 - Created a branch
 - Learning pull requests next
+
+## Another test
+### what should we try
+- I would like to try another branch
+- Then I want to edit a file
+- Then I want to create a pull request
+- finally I want to merge into main
